@@ -7,10 +7,11 @@ it was builded attending BUILDH3R | Interactive Learn & Earn Workshops
 This was provided by Gnana Lakshmi - Starknet DevRel. Thank you for your time and efforts.
 
 Features:
-
+```
 Increase counter value by 1. --> fn increase_counter(ref self: T);
 Decrease counter value by 1. --> fn decrease_counter(ref self: T);
 Get the current counter val. --> fn get_counter(self: @T) -> u128;
+```
 
 This was deployed with Argent X Wallet: 0x070479A033755fD255559369B5009F3A84fC935f6fe7d8f8209656422df635B1
 
