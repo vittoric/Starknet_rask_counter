@@ -15,8 +15,8 @@ Get the current counter val. --> fn get_counter(self: @T) -> u128;
 
 This was deployed with Argent X Wallet: 0x070479A033755fD255559369B5009F3A84fC935f6fe7d8f8209656422df635B1
 
-contract address: 0x038592868faFdf3aD2832d060A5DD206713c5c57632F4BDF51d3d743A768bb60
+contract address: 0x072634c44667e761efa228d7e937c620e0bf21f61a7a95ea42561af6954b08a9
 
+<img width="1276" alt="imagen" src="https://github.com/vittoric/Starknet_rask_counter/assets/93945847/5d6d0dbd-3453-4a2b-89f2-05e34f01d31c">
 
-<img width="910" alt="Captura de pantalla 2024-05-05 a las 17 40 01" src="https://github.com/vittoric/Starknet_rask_counter/assets/93945847/cac943b1-5ef7-43ba-85a5-72d14260c76b">
 
